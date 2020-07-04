@@ -76,7 +76,25 @@ ShallowWrapper {
 />,
     "_firstWorkInProgressHook": null,
     "_forcedUpdate": false,
-    "_instance": null,
+    "_instance": ArticleList {
+      "context": Object {},
+      "props": Object {
+        "articles": Object {
+          "a": Object {
+            "id": "a",
+          },
+          "b": Object {
+            "id": "b",
+          },
+        },
+      },
+      "refs": Object {},
+      "state": null,
+      "updater": Updater {
+        "_callbacks": Array [],
+        "_renderer": [Circular],
+      },
+    },
     "_isReRender": false,
     "_newState": null,
     "_numberOfReRenders": 0,
